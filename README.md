@@ -1,7 +1,7 @@
 Hi 👋 My name is Brian Morrison II
 ==================================
 
-Building with Go & AWS • Dev Ed at PlanetScale
+Building with Go & AWS • Dev Ed at Clerk
 ----------------------------------------------
 
 *   🌍  I'm based in Kentucky
